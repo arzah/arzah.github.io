@@ -4,7 +4,7 @@ body {
 }
 
 section {
-    background-color: black;
+    background-color: #FFEFF0;
 }
 
 .hero {
@@ -87,8 +87,8 @@ p {
 }
 
 .button:active {
-    background-color: #A9A9A9;
-    color: #808080;
+    background-color: #E1EAEE;
+    color: #b5bdc0;
 }
 
 .socials {
