@@ -4,19 +4,19 @@ body {
 }
 
 section {
-    background-color: white;
+    background-color: black;
 }
 
 .hero {
-    background-color: #1c1d25;
+    background-color: #FFEFF0;
     height: 100vh;
-    color: white;
+    color: black;
     font-size: 40px;
 }
 
 footer {
-    background-color: black;
-    color: white;
+    background-color: #FFEFF0;
+    color: black;
     text-align: center;
     padding: 80px;
 }
@@ -74,7 +74,7 @@ p {
     width: 200px;
     height: 55px;
     border-radius: 30px;
-    background-color: coral;
+    background-color: #F0ADA4;
     text-align: center;
     font-size: 30px;
     font-weight: 300;
@@ -83,7 +83,7 @@ p {
 }
 
 .button:hover {
-    background-color: #ef744b;
+    background-color: #eb9d93;
 }
 
 .button:active {
