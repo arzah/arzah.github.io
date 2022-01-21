@@ -1,3 +1,48 @@
+
+/* styling for small sized screen */
+@media screen and (max-width: 500px) {
+
+       .project-container {
+           display: flex;
+           flex-wrap: wrap;
+       }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
