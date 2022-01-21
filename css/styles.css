@@ -3,7 +3,7 @@
 @media screen and (max-width: 500px) {
 
     .hamburger {
-        display: block;
+        display: block; 
         border: 0;
         background-color: transparent;
         color: black;
@@ -258,37 +258,7 @@ a {
 
 
 
-@media only screen and (max-width: 1000px) {
-    .hamburger {
-        display: block;
-        border: 0;
-        background-color: transparent;
-        color: black;
-        font-size: 30px;
-        margin: 20px;
-        align-self: flex-end;
-    }
 
-    ul {
-        display: none;
-        background-color: #FFEFF0;
-        margin: 0ppx;
-    }
-
-    ul.show {
-        display: block;
-    }
-
-    nav {
-        display: flex;
-        flex-direction: column-reverse;
-        background-color: #2b2c38;
-    }
-
-    .logo {
-        display: none;
-    }
-}
 
 div.gallery {
     margin: 5px;
