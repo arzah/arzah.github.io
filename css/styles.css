@@ -13,9 +13,11 @@
     }
 
     ul {
-        display: none;
-        background-color: #FFEFF0;
-        margin: 0ppx;
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-around;
+    font-size: 30px;
     }
 
     ul.show {
@@ -25,7 +27,7 @@
     nav {
         display: flex;
         flex-direction: column-reverse;
-        background-color: #2b2c38;
+        background-color: #FFEFF0;
     }
 
     .logo {
