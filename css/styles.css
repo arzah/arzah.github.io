@@ -2,15 +2,7 @@
 /* styling for small sized screen */
 @media screen and (max-width: 500px) {
 
-    .hamburger {
-        display: block; 
-        border: 0;
-        background-color: transparent;
-        color: black;
-        font-size: 30px;
-        margin: 20px;
-        align-self: flex-end;
-    }
+
 
     ul {
     display: flex;
@@ -242,16 +234,6 @@ a {
     text-decoration: none;
     color: black;
 }
-
-.hamburger {
-    display: none;
-}
-
-.hamburger:focus {
-    outline: 0;
-}
-
-
 
 
 
