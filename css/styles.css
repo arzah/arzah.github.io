@@ -454,7 +454,7 @@ hr {
     }
 
     .project-card {
-        width: 300px;
+        width: 700px;
         height: 500px;
         box-shadow: 5px 5px 20px rgb(197, 195, 195);
         margin: 10px;
@@ -467,8 +467,7 @@ hr {
 
     .project-image {
         margin-top: 25px;
-        width: 250px;
-        border-radius: 125px;
+        width: 550px;
     }
 
     hr {
