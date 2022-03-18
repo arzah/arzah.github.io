@@ -523,13 +523,17 @@ a {
 
 
 
-
-    div.images {
+div.images {
         display: flex;
         flex-flow: column;
     }
 
-div.images div.align {
+div.alignOne {
+    display: flex;
+    flex-flow: row;
+}
+
+div.align {
     display: flex;
     flex-flow: row;
 }
