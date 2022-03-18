@@ -524,8 +524,15 @@ a {
 
 
 
+    div.images {
+        display: flex;
+        flex-flow: column;
+    }
 
-
+div.images div.align {
+    display: flex;
+    flex-flow: row;
+}
 
 
 div.gallery {
