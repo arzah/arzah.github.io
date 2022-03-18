@@ -501,7 +501,9 @@ hr {
 
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    margin: 50px;
+            background-color: #FFEFF0;
+
 }
 
 section {
