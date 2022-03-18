@@ -433,6 +433,7 @@ hr {
         display: flex;
         justify-content: space-around;
         padding: 80px;
+        margin: auto;
     }
 
     .sub-section-alternative {
